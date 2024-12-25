@@ -1,0 +1,828 @@
+﻿Item Number,Product Group,Product Line,Product Type
+10001,SUV,Car,BMW
+10002,SUV,Car,Mercedes Benz
+10003,SUV,Car,Mercedes Benz
+10004,SUV,Car,Porsche
+10005,SUV,Car,Porsche
+10006,SUV,Car,Porsche
+10007,SUV,Car,Porsche
+10008,SUV,Car,BMW
+10009,SUV,Car,BMW
+10010,SUV,Car,BMW
+10011,SUV,Car,Mercedes Benz
+10012,Hatchback,Car,Audi
+10013,Hatchback,Car,Audi
+10014,Hatchback,Car,Audi
+10015,Hatchback,Car,Audi
+10016,Sedan,Car,Alfa Romeo
+10017,Sedan,Car,Alfa Romeo
+10018,Sedan,Car,Alfa Romeo
+10019,Sedan,Car,Ford
+10020,Sedan,Car,Alfa Romeo
+10021,Sedan,Car,Ford
+10022,Sedan,Car,Alfa Romeo
+10023,Sedan,Car,Ford
+10024,Sedan,Car,Ford
+10025,Sedan,Car,Ford
+10026,Sedan,Car,Ford
+10027,Sedan,Car,Ford
+10028,Sedan,Car,Alfa Romeo
+10029,Sedan,Car,Ford
+10030,Sedan,Car,Dodge
+10031,Sedan,Car,Dodge
+10032,Sedan,Car,Chevrolet
+10033,Sedan,Car,Toyota
+10034,Sedan,Car,Cadillac
+10035,Sedan,Car,Bentley
+10036,Sedan,Car,Tesla
+10037,Sedan,Car,Ford
+10038,Sedan,Car,Hyundai
+10039,Sedan,Car,Hyundai
+10043,Coupe,Car,Volvo
+10044,Coupe,Car,Volvo
+10045,Coupe,Car,Volvo
+10046,Coupe,Car,Volvo
+10047,Coupe,Car,Volvo
+10048,Coupe,Car,Volvo
+10049,Coupe,Car,Volvo
+10050,Coupe,Car,Volvo
+10051,Coupe,Car,Volvo
+10052,Coupe,Car,Volvo
+10053,Coupe,Car,Volvo
+10054,Coupe,Car,Volvo
+10055,Coupe,Car,Volvo
+10056,Coupe,Car,Volvo
+10057,Coupe,Car,Volvo
+10058,Coupe,Car,Volvo
+10059,Coupe,Car,Volvo
+10060,Coupe,Car,Volvo
+10061,Coupe,Car,Volvo
+10062,Coupe,Car,Volvo
+10063,Convertible,Car,MINI
+10064,Convertible,Car,MINI
+10065,Convertible,Car,MINI
+10066,Convertible,Car,MINI
+10067,Convertible,Car,MINI
+10068,Convertible,Car,MINI
+10069,Convertible,Car,Peugeot
+10070,Convertible,Car,Peugeot
+10071,Convertible,Car,MINI
+10072,Convertible,Car,MINI
+10073,Convertible,Car,MINI
+10074,Convertible,Car,MINI
+10075,Convertible,Car,Peugeot
+10076,Convertible,Car,MINI
+10077,Station Wagon,Car,Fiat
+10078,Station Wagon,Car,Fiat
+10079,Station Wagon,Car,Fiat
+10080,Station Wagon,Car,Fiat
+10081,Station Wagon,Car,Fiat
+10082,Crossover,Car,Audi
+10083,Crossover,Car,Mazda
+10084,Crossover,Car,MINI
+10085,Crossover,Car,Audi
+10086,Crossover,Car,Alfa Romeo
+10087,Crossover,Car,Renault
+10088,Crossover,Car,Audi
+10089,Crossover,Car,Alfa Romeo
+10090,Crossover,Car,Audi
+10091,Crossover,Car,Renault
+10092,Crossover,Car,Renault
+10093,Crossover,Car,Renault
+10094,Crossover,Car,Audi
+10095,Crossover,Car,Alfa Romeo
+10096,Crossover,Car,Jaguar
+10097,Crossover,Car,Jaguar
+10098,Crossover,Car,Jaguar
+10099,Crossover,Car,Audi
+10100,Crossover,Car,Mazda
+10101,Crossover,Car,Alfa Romeo
+10102,Crossover,Car,Mazda
+10103,Crossover,Car,Mazda
+10104,Crossover,Car,Mazda
+10105,Crossover,Car,Alfa Romeo
+10106,Crossover,Car,Alfa Romeo
+10107,Crossover,Car,Alfa Romeo
+10108,Crossover,Car,Alfa Romeo
+10109,Crossover,Car,Mazda
+10110,Crossover,Car,MINI
+10111,Crossover,Car,MINI
+10112,Crossover,Car,Mazda
+10164,MINI,Car,MINI
+10171,Sports Car,Car,Alfa Romeo
+10172,Sports Car,Car,Alfa Romeo
+10173,Sports Car,Car,Alfa Romeo
+10174,Sports Car,Car,Alfa Romeo
+10175,Sports Car,Car,Alfa Romeo
+10176,Sports Car,Car,Alfa Romeo
+10177,Sports Car,Car,Alfa Romeo
+10178,Sports Car,Car,Alfa Romeo
+10179,Sports Car,Car,Alfa Romeo
+10180,Sports Car,Car,Alfa Romeo
+10181,Sports Car,Car,Alfa Romeo
+10182,Sports Car,Car,Alfa Romeo
+10183,Sports Car,Car,Alfa Romeo
+10184,Sports Car,Car,Alfa Romeo
+10185,Sports Car,Car,Alfa Romeo
+10186,Sports Car,Car,Alfa Romeo
+10187,Sports Car,Car,Alfa Romeo
+10188,Sports Car,Car,Alfa Romeo
+10189,Sports Car,Car,Alfa Romeo
+10190,Sports Car,Car,Alfa Romeo
+10191,Sports Car,Car,Alfa Romeo
+10192,Sports Car,Car,Alfa Romeo
+10193,Sports Car,Car,Hyundai
+10194,Sports Car,Car,Volkswagen
+10195,Sports Car,Car,Honda
+10196,Sports Car,Car,Hyundai
+10197,Sports Car,Car,Hyundai
+10198,Sports Car,Car,Hyundai
+10199,Sports Car,Car,Hyundai
+10200,Sports Car,Car,Hyundai
+10201,Sports Car,Car,Hyundai
+10202,Sports Car,Car,Hyundai
+10203,Sports Car,Car,Alfa Romeo
+10204,Sports Car,Car,Hyundai
+10205,Sports Car,Car,Honda
+10206,Sports Car,Car,Honda
+10207,Sports Car,Car,Alfa Romeo
+10208,Sports Car,Car,Hyundai
+10209,Sports Car,Car,Hyundai
+10210,Sports Car,Car,Hyundai
+10211,Sports Car,Car,Honda
+10212,Sports Car,Car,Hyundai
+10213,Sports Car,Car,Hyundai
+10214,Sports Car,Car,Honda
+10215,Van,Car,Nissan
+10216,Van,Car,Nissan
+10217,Pickup,Car,Opel
+10218,Pickup,Car,Opel
+10219,Pickup,Car,Opel
+10220,Pickup,Car,Opel
+10221,Pickup,Car,Opel
+10222,Pickup,Car,Opel
+10223,Pickup,Car,Opel
+10224,Pickup,Car,Opel
+10225,Pickup,Car,Opel
+10226,Pickup,Car,Opel
+10227,Pickup,Car,Opel
+10228,Pickup,Car,Opel
+10229,Pickup,Car,Opel
+10230,Pickup,Car,Opel
+10231,Pickup,Car,Opel
+10232,Pickup,Car,Opel
+10233,Pickup,Car,Opel
+10234,Pickup,Car,Opel
+10235,Pickup,Car,Opel
+10236,Pickup,Car,Opel
+10237,Pickup,Car,Opel
+10238,Pickup,Car,Opel
+10239,Pickup,Car,Opel
+10240,Pickup,Car,Opel
+10241,Pickup,Car,Opel
+10242,Pickup,Car,Opel
+10243,Pickup,Car,Opel
+10244,Pickup,Car,Opel
+10245,Pickup,Car,Opel
+10247,Pickup,Car,Opel
+10248,Pickup,Car,Opel
+10249,Pickup,Car,Opel
+10250,Pickup,Car,Opel
+10251,Pickup,Car,Opel
+10252,Pickup,Car,Opel
+10253,Pickup,Car,Smart
+10254,Pickup,Car,Smart
+10255,Pickup,Car,Smart
+10256,Pickup,Car,Smart
+10257,Pickup,Car,Smart
+10258,Pickup,Car,Smart
+10259,Pickup,Car,Smart
+10260,Pickup,Car,Smart
+10261,Roadster,Car,Hummer
+10262,Roadster,Car,Hummer
+10263,Roadster,Car,Hummer
+10264,Roadster,Car,Hummer
+10265,Roadster,Car,Hummer
+10266,Mini SUV,Car,Subaru
+10267,Mini SUV,Car,Subaru
+10268,Mini SUV,Car,Subaru
+10269,Mini SUV,Car,Subaru
+10270,Mini SUV,Car,Subaru
+10271,Mini SUV,Car,Subaru
+10272,Mini SUV,Car,Subaru
+10273,Mini SUV,Car,Subaru
+10274,Supercar,Car,Acura
+10275,Supercar,Car,Acura
+10276,Supercar,Car,Acura
+10277,Supercar,Car,Acura
+10278,Supercar,Car,Acura
+10279,Supercar,Car,Acura
+10280,Supercar,Car,Acura
+10281,Supercar,Car,Acura
+10282,Supercar,Car,Acura
+10283,Pony Car,Car,Kia
+10284,Pony Car,Car,Pagani
+10285,SUV,Car,Jeep
+10286,Pony Car,Car,Kia
+10287,Pony Car,Car,Kia
+10288,SUV,Car,Jeep
+10289,SUV,Car,Jeep
+10290,SUV,Car,Jeep
+10291,Pony Car,Car,Kia
+10292,Pony Car,Car,Kia
+10293,Pony Car,Car,Kia
+10294,Pony Car,Car,Kia
+10295,Pony Car,Car,Pagani
+10296,SUV,Car,Jeep
+10297,Pony Car,Car,Pagani
+10298,Pony Car,Car,Kia
+10299,Pony Car,Car,Pagani
+10300,Pony Car,Car,Kia
+10301,Pony Car,Car,Pagani
+10302,Pony Car,Car,Kia
+10303,Pony Car,Car,Pagani
+10304,Pony Car,Car,Pagani
+10305,Pony Car,Car,Pagani
+10306,Pony Car,Car,Pagani
+10307,Pony Car,Car,Pagani
+10308,Pony Car,Car,Pagani
+10309,Pony Car,Car,Pagani
+10310,Pony Car,Car,Pagani
+10311,Pony Car,Car,Pagani
+10312,SUV,Car,BMW
+10313,SUV,Car,Mercedes Benz
+10314,SUV,Car,Mercedes Benz
+10315,SUV,Car,Porsche
+10316,SUV,Car,Porsche
+10317,SUV,Car,Porsche
+10318,SUV,Car,Porsche
+10319,SUV,Car,BMW
+10320,SUV,Car,BMW
+10321,SUV,Car,BMW
+10322,SUV,Car,Mercedes Benz
+10323,Hatchback,Car,Audi
+10324,Hatchback,Car,Audi
+10325,Hatchback,Car,Audi
+10326,Hatchback,Car,Audi
+10327,Sedan,Car,Alfa Romeo
+10328,Sedan,Car,Alfa Romeo
+10329,Sedan,Car,Alfa Romeo
+10330,Sedan,Car,Ford
+10331,Sedan,Car,Alfa Romeo
+10332,Sedan,Car,Ford
+10333,Sedan,Car,Alfa Romeo
+10334,Sedan,Car,Ford
+10335,Sedan,Car,Ford
+10336,Sedan,Car,Ford
+10337,Sedan,Car,Ford
+10338,Sedan,Car,Ford
+10339,Sedan,Car,Alfa Romeo
+10340,Sedan,Car,Ford
+10341,Sedan,Car,Dodge
+10342,Sedan,Car,Dodge
+10343,Sedan,Car,Chevrolet
+10344,Sedan,Car,Toyota
+10345,Sedan,Car,Cadillac
+10346,Sedan,Car,Bentley
+10347,Sedan,Car,Tesla
+10348,Sedan,Car,Ford
+10349,Sedan,Car,Hyundai
+10350,Sedan,Car,Hyundai
+10354,Coupe,Car,Volvo
+10355,Coupe,Car,Volvo
+10356,Coupe,Car,Volvo
+10357,Coupe,Car,Volvo
+10358,Coupe,Car,Volvo
+10359,Coupe,Car,Volvo
+10360,Coupe,Car,Volvo
+10361,Coupe,Car,Volvo
+10362,Coupe,Car,Volvo
+10363,Coupe,Car,Volvo
+10364,Coupe,Car,Volvo
+10365,Coupe,Car,Volvo
+10366,Coupe,Car,Volvo
+10367,Coupe,Car,Volvo
+10368,Coupe,Car,Volvo
+10369,Coupe,Car,Volvo
+10370,Coupe,Car,Volvo
+10371,Coupe,Car,Volvo
+10372,Coupe,Car,Volvo
+10373,Coupe,Car,Volvo
+10374,Convertible,Car,MINI
+10375,Convertible,Car,MINI
+10376,Convertible,Car,MINI
+10377,Convertible,Car,MINI
+10378,Convertible,Car,MINI
+10379,Convertible,Car,MINI
+10380,Convertible,Car,Peugeot
+10381,Convertible,Car,Peugeot
+10382,Convertible,Car,MINI
+10383,Convertible,Car,MINI
+10384,Convertible,Car,MINI
+10385,Convertible,Car,MINI
+10386,Convertible,Car,Peugeot
+10387,Convertible,Car,MINI
+10388,Station Wagon,Car,Fiat
+10389,Station Wagon,Car,Fiat
+10390,Station Wagon,Car,Fiat
+10391,Station Wagon,Car,Fiat
+10392,Station Wagon,Car,Fiat
+10393,Crossover,Car,Audi
+10394,Crossover,Car,Mazda
+10395,Crossover,Car,MINI
+10396,Crossover,Car,Audi
+10397,Crossover,Car,Alfa Romeo
+10398,Crossover,Car,Renault
+10399,Crossover,Car,Audi
+10400,Crossover,Car,Alfa Romeo
+10401,Crossover,Car,Audi
+10402,Crossover,Car,Renault
+10403,Crossover,Car,Renault
+10404,Crossover,Car,Renault
+10405,Crossover,Car,Audi
+10406,Crossover,Car,Alfa Romeo
+10407,Crossover,Car,Jaguar
+10408,Crossover,Car,Jaguar
+10409,Crossover,Car,Jaguar
+10410,Crossover,Car,Audi
+10411,Crossover,Car,Mazda
+10412,Crossover,Car,Alfa Romeo
+10413,Crossover,Car,Mazda
+10414,Crossover,Car,Mazda
+10415,Crossover,Car,Mazda
+10416,Crossover,Car,Alfa Romeo
+10417,Crossover,Car,Alfa Romeo
+10418,Crossover,Car,Alfa Romeo
+10419,Crossover,Car,Alfa Romeo
+10420,Crossover,Car,Mazda
+10421,Crossover,Car,MINI
+10422,Crossover,Car,MINI
+10423,Crossover,Car,Mazda
+10475,MINI,Car,MINI
+10476,MINI,Car,MINI
+10482,Sports Car,Car,Alfa Romeo
+10483,Sports Car,Car,Alfa Romeo
+10484,Sports Car,Car,Alfa Romeo
+10485,Sports Car,Car,Alfa Romeo
+10486,Sports Car,Car,Alfa Romeo
+10487,Sports Car,Car,Alfa Romeo
+10488,Sports Car,Car,Alfa Romeo
+10489,Sports Car,Car,Alfa Romeo
+10490,Sports Car,Car,Alfa Romeo
+10491,Sports Car,Car,Alfa Romeo
+10492,Sports Car,Car,Alfa Romeo
+10493,Sports Car,Car,Alfa Romeo
+10494,Sports Car,Car,Alfa Romeo
+10495,Sports Car,Car,Alfa Romeo
+10496,Sports Car,Car,Alfa Romeo
+10497,Sports Car,Car,Alfa Romeo
+10498,Sports Car,Car,Alfa Romeo
+10499,Sports Car,Car,Alfa Romeo
+10500,Sports Car,Car,Alfa Romeo
+10501,Sports Car,Car,Alfa Romeo
+10502,Sports Car,Car,Alfa Romeo
+10503,Sports Car,Car,Alfa Romeo
+10504,Sports Car,Car,Hyundai
+10505,Sports Car,Car,Volkswagen
+10506,Sports Car,Car,Honda
+10507,Sports Car,Car,Hyundai
+10508,Sports Car,Car,Hyundai
+10509,Sports Car,Car,Hyundai
+10510,Sports Car,Car,Hyundai
+10511,Sports Car,Car,Hyundai
+10512,Sports Car,Car,Hyundai
+10513,Sports Car,Car,Hyundai
+10514,Sports Car,Car,Alfa Romeo
+10515,Sports Car,Car,Hyundai
+10516,Sports Car,Car,Honda
+10517,Sports Car,Car,Honda
+10518,Sports Car,Car,Alfa Romeo
+10519,Sports Car,Car,Hyundai
+10520,Sports Car,Car,Hyundai
+10521,Sports Car,Car,Hyundai
+10522,Sports Car,Car,Honda
+10523,Sports Car,Car,Hyundai
+10524,Sports Car,Car,Hyundai
+10525,Sports Car,Car,Honda
+10526,Van,Car,Nissan
+10527,Van,Car,Nissan
+10528,Pickup,Car,Opel
+10529,Pickup,Car,Opel
+10530,Pickup,Car,Opel
+10531,Pickup,Car,Opel
+10532,Pickup,Car,Opel
+10533,Pickup,Car,Opel
+10534,Pickup,Car,Opel
+10535,Pickup,Car,Opel
+10536,Pickup,Car,Opel
+10537,Pickup,Car,Opel
+10538,Pickup,Car,Opel
+10539,Pickup,Car,Opel
+10540,Pickup,Car,Opel
+10541,Pickup,Car,Opel
+10542,Pickup,Car,Opel
+10543,Pickup,Car,Opel
+10544,Pickup,Car,Opel
+10545,Pickup,Car,Opel
+10546,Pickup,Car,Opel
+10547,Pickup,Car,Opel
+10548,Pickup,Car,Opel
+10549,Pickup,Car,Opel
+10550,Pickup,Car,Opel
+10551,Pickup,Car,Opel
+10552,Pickup,Car,Opel
+10553,Pickup,Car,Opel
+10554,Pickup,Car,Opel
+10555,Pickup,Car,Opel
+10556,Pickup,Car,Opel
+10557,Pickup,Car,Opel
+10558,Pickup,Car,Opel
+10559,Pickup,Car,Opel
+10560,Pickup,Car,Opel
+10561,Pickup,Car,Opel
+10562,Pickup,Car,Opel
+10563,Pickup,Car,Opel
+10564,Pickup,Car,Smart
+10565,Pickup,Car,Smart
+10566,Pickup,Car,Smart
+10567,Pickup,Car,Smart
+10568,Pickup,Car,Smart
+10569,Pickup,Car,Smart
+10570,Pickup,Car,Smart
+10571,Pickup,Car,Smart
+10572,Roadster,Car,Hummer
+10573,Roadster,Car,Hummer
+10574,Roadster,Car,Hummer
+10575,Roadster,Car,Hummer
+10576,Roadster,Car,Hummer
+10577,Mini SUV,Car,Subaru
+10578,Mini SUV,Car,Subaru
+10579,Mini SUV,Car,Subaru
+10580,Mini SUV,Car,Subaru
+10581,Mini SUV,Car,Subaru
+10582,Mini SUV,Car,Subaru
+10583,Mini SUV,Car,Subaru
+10584,Mini SUV,Car,Subaru
+10585,Supercar,Car,Acura
+10586,Supercar,Car,Acura
+10587,Supercar,Car,Acura
+10588,Supercar,Car,Acura
+10589,Supercar,Car,Acura
+10590,Supercar,Car,Acura
+10591,Supercar,Car,Acura
+10592,Supercar,Car,Acura
+10593,Supercar,Car,Acura
+10594,Pony Car,Car,Kia
+10595,Pony Car,Car,Pagani
+10596,SUV,Car,Jeep
+10597,Pony Car,Car,Kia
+10598,Pony Car,Car,Kia
+10599,SUV,Car,Jeep
+10600,SUV,Car,Jeep
+10601,SUV,Car,Jeep
+10602,Pony Car,Car,Kia
+10603,Pony Car,Car,Kia
+10604,Pony Car,Car,Kia
+10605,Pony Car,Car,Kia
+10606,Pony Car,Car,Pagani
+10607,SUV,Car,Jeep
+10608,Pony Car,Car,Pagani
+10609,Pony Car,Car,Kia
+10610,Pony Car,Car,Pagani
+10611,Pony Car,Car,Kia
+10612,Pony Car,Car,Pagani
+10613,Pony Car,Car,Kia
+10614,Pony Car,Car,Pagani
+10615,Pony Car,Car,Pagani
+10616,Pony Car,Car,Pagani
+10617,Pony Car,Car,Pagani
+10618,Pony Car,Car,Pagani
+10619,Pony Car,Car,Pagani
+10620,Pony Car,Car,Pagani
+10621,Pony Car,Car,Pagani
+10622,Pony Car,Car,Pagani
+10623,SUV,Car,BMW
+10624,SUV,Car,Mercedes Benz
+10625,SUV,Car,Mercedes Benz
+10626,SUV,Car,Porsche
+10627,SUV,Car,Porsche
+10628,SUV,Car,Porsche
+10629,SUV,Car,Porsche
+10630,SUV,Car,BMW
+10631,SUV,Car,BMW
+10632,SUV,Car,BMW
+10633,SUV,Car,Mercedes Benz
+10634,Hatchback,Car,Audi
+10635,Hatchback,Car,Audi
+10636,Hatchback,Car,Audi
+10637,Hatchback,Car,Audi
+10638,Sedan,Car,Alfa Romeo
+10639,Sedan,Car,Alfa Romeo
+10640,Sedan,Car,Alfa Romeo
+10641,Sedan,Car,Ford
+10642,Sedan,Car,Alfa Romeo
+10643,Sedan,Car,Ford
+10644,Sedan,Car,Alfa Romeo
+10645,Sedan,Car,Ford
+10646,Sedan,Car,Ford
+10647,Sedan,Car,Ford
+10648,Sedan,Car,Ford
+10649,Sedan,Car,Ford
+10650,Sedan,Car,Alfa Romeo
+10651,Sedan,Car,Ford
+10652,Sedan,Car,Dodge
+10653,Sedan,Car,Dodge
+10654,Sedan,Car,Chevrolet
+10655,Sedan,Car,Toyota
+10656,Sedan,Car,Cadillac
+10657,Sedan,Car,Bentley
+10658,Sedan,Car,Tesla
+10659,Sedan,Car,Ford
+10660,Sedan,Car,Hyundai
+10661,Sedan,Car,Hyundai
+10665,Coupe,Car,Volvo
+10666,Coupe,Car,Volvo
+10667,Coupe,Car,Volvo
+10668,Coupe,Car,Volvo
+10669,Coupe,Car,Volvo
+10670,Coupe,Car,Volvo
+10671,Coupe,Car,Volvo
+10672,Coupe,Car,Volvo
+10673,Coupe,Car,Volvo
+10674,Coupe,Car,Volvo
+10675,Coupe,Car,Volvo
+10676,Coupe,Car,Volvo
+10677,Coupe,Car,Volvo
+10678,Coupe,Car,Volvo
+10679,Coupe,Car,Volvo
+10680,Coupe,Car,Volvo
+10681,Coupe,Car,Volvo
+10682,Coupe,Car,Volvo
+10683,Coupe,Car,Volvo
+10684,Coupe,Car,Volvo
+10685,Convertible,Car,MINI
+10686,Convertible,Car,MINI
+10687,Convertible,Car,MINI
+10688,Convertible,Car,MINI
+10689,Convertible,Car,MINI
+10690,Convertible,Car,MINI
+10691,Convertible,Car,Peugeot
+10692,Convertible,Car,Peugeot
+10693,Convertible,Car,MINI
+10694,Convertible,Car,MINI
+10695,Convertible,Car,MINI
+10696,Convertible,Car,MINI
+10697,Convertible,Car,Peugeot
+10698,Convertible,Car,MINI
+10699,Station Wagon,Car,Fiat
+10700,Station Wagon,Car,Fiat
+10701,Station Wagon,Car,Fiat
+10702,Station Wagon,Car,Fiat
+10703,Station Wagon,Car,Fiat
+10704,Crossover,Car,Audi
+10705,Crossover,Car,Mazda
+10706,Crossover,Car,MINI
+10707,Crossover,Car,Audi
+10708,Crossover,Car,Alfa Romeo
+10709,Crossover,Car,Renault
+10710,Crossover,Car,Audi
+10711,Crossover,Car,Alfa Romeo
+10712,Crossover,Car,Audi
+10713,Crossover,Car,Renault
+10714,Crossover,Car,Renault
+10715,Crossover,Car,Renault
+10716,Crossover,Car,Audi
+10717,Crossover,Car,Alfa Romeo
+10718,Crossover,Car,Jaguar
+10719,Crossover,Car,Jaguar
+10720,Crossover,Car,Jaguar
+10721,Crossover,Car,Audi
+10722,Crossover,Car,Mazda
+10723,Crossover,Car,Alfa Romeo
+10724,Crossover,Car,Mazda
+10725,Crossover,Car,Mazda
+10726,Crossover,Car,Mazda
+10727,Crossover,Car,Alfa Romeo
+10728,Crossover,Car,Alfa Romeo
+10729,Crossover,Car,Alfa Romeo
+10730,Crossover,Car,Alfa Romeo
+10731,Crossover,Car,Mazda
+10732,Crossover,Car,MINI
+10733,Crossover,Car,MINI
+10734,Crossover,Car,Mazda
+10786,MINI,Car,MINI
+10787,MINI,Car,MINI
+10793,Sports Car,Car,Alfa Romeo
+10794,Sports Car,Car,Alfa Romeo
+10795,Sports Car,Car,Alfa Romeo
+10796,Sports Car,Car,Alfa Romeo
+10797,Sports Car,Car,Alfa Romeo
+10799,Sports Car,Car,Alfa Romeo
+10800,Sports Car,Car,Alfa Romeo
+10801,Sports Car,Car,Alfa Romeo
+10802,Sports Car,Car,Alfa Romeo
+10803,Sports Car,Car,Alfa Romeo
+10804,Sports Car,Car,Alfa Romeo
+10805,Sports Car,Car,Alfa Romeo
+10806,Sports Car,Car,Alfa Romeo
+10807,Sports Car,Car,Alfa Romeo
+10808,Sports Car,Car,Alfa Romeo
+10809,Sports Car,Car,Alfa Romeo
+10810,Sports Car,Car,Alfa Romeo
+10811,Sports Car,Car,Alfa Romeo
+10812,Sports Car,Car,Alfa Romeo
+10813,Sports Car,Car,Alfa Romeo
+10814,Sports Car,Car,Alfa Romeo
+10815,Sports Car,Car,Hyundai
+10816,Sports Car,Car,Volkswagen
+10817,Sports Car,Car,Honda
+10818,Sports Car,Car,Hyundai
+10819,Sports Car,Car,Hyundai
+10820,Sports Car,Car,Hyundai
+10821,Sports Car,Car,Hyundai
+10822,Sports Car,Car,Hyundai
+10823,Sports Car,Car,Hyundai
+10824,Sports Car,Car,Hyundai
+10825,Sports Car,Car,Alfa Romeo
+10826,Sports Car,Car,Hyundai
+10827,Sports Car,Car,Honda
+10828,Sports Car,Car,Honda
+10829,Sports Car,Car,Alfa Romeo
+10830,Sports Car,Car,Hyundai
+10831,Sports Car,Car,Hyundai
+10832,Sports Car,Car,Hyundai
+10833,Sports Car,Car,Honda
+10834,Sports Car,Car,Hyundai
+10835,Sports Car,Car,Hyundai
+10836,Sports Car,Car,Honda
+10837,Van,Car,Nissan
+10838,Van,Car,Nissan
+10839,Pickup,Car,Opel
+10840,Pickup,Car,Opel
+10841,Pickup,Car,Opel
+10842,Pickup,Car,Opel
+10843,Pickup,Car,Opel
+10844,Pickup,Car,Opel
+10845,Pickup,Car,Opel
+10846,Pickup,Car,Opel
+10847,Pickup,Car,Opel
+10848,Pickup,Car,Opel
+10849,Pickup,Car,Opel
+10850,Pickup,Car,Opel
+10851,Pickup,Car,Opel
+10852,Pickup,Car,Opel
+10853,Pickup,Car,Opel
+10854,Pickup,Car,Opel
+10855,Pickup,Car,Opel
+10856,Pickup,Car,Opel
+10857,Pickup,Car,Opel
+10858,Pickup,Car,Opel
+10859,Pickup,Car,Opel
+10860,Pickup,Car,Opel
+10861,Pickup,Car,Opel
+10862,Pickup,Car,Opel
+10863,Pickup,Car,Opel
+10864,Pickup,Car,Opel
+10865,Pickup,Car,Opel
+10866,Pickup,Car,Opel
+10867,Pickup,Car,Opel
+10868,Pickup,Car,Opel
+10869,Pickup,Car,Opel
+10870,Pickup,Car,Opel
+10871,Pickup,Car,Opel
+10872,Pickup,Car,Opel
+10873,Pickup,Car,Opel
+10874,Pickup,Car,Opel
+10875,Pickup,Car,Smart
+10876,Pickup,Car,Smart
+10877,Pickup,Car,Smart
+10878,Pickup,Car,Smart
+10879,Pickup,Car,Smart
+10880,Pickup,Car,Smart
+10881,Pickup,Car,Smart
+10882,Pickup,Car,Smart
+10883,Roadster,Car,Hummer
+10884,Roadster,Car,Hummer
+10885,Roadster,Car,Hummer
+10886,Roadster,Car,Hummer
+10887,Roadster,Car,Hummer
+10888,Roadster,Car,Hummer
+10889,Roadster,Car,Hummer
+10890,Roadster,Car,Hummer
+10891,Roadster,Car,Hummer
+10892,Roadster,Car,Hummer
+10893,Mini SUV,Car,Subaru
+10894,Mini SUV,Car,Subaru
+10895,Mini SUV,Car,Subaru
+10896,Mini SUV,Car,Subaru
+10897,Mini SUV,Car,Subaru
+10898,Mini SUV,Car,Subaru
+10899,Mini SUV,Car,Subaru
+10900,Mini SUV,Car,Subaru
+10901,Supercar,Car,Acura
+10902,Supercar,Car,Acura
+10903,Supercar,Car,Acura
+10908,Supercar,Car,Acura
+10909,Supercar,Car,Acura
+10910,Pony Car,Car,Kia
+10911,Pony Car,Car,Pagani
+10912,SUV,Car,Jeep
+10913,Pony Car,Car,Kia
+10914,Pony Car,Car,Kia
+10915,SUV,Car,Jeep
+10916,SUV,Car,Jeep
+10917,SUV,Car,Jeep
+10918,Pony Car,Car,Kia
+10919,Pony Car,Car,Kia
+10920,Pony Car,Car,Kia
+10921,Pony Car,Car,Kia
+10922,Pony Car,Car,Pagani
+10923,SUV,Car,Jeep
+10924,Pony Car,Car,Pagani
+10925,Pony Car,Car,Kia
+10926,Pony Car,Car,Pagani
+10927,Pony Car,Car,Kia
+10928,Pony Car,Car,Pagani
+10929,Pony Car,Car,Kia
+10930,Pony Car,Car,Pagani
+10931,Pony Car,Car,Pagani
+10932,Pony Car,Car,Pagani
+10933,Pony Car,Car,Pagani
+10934,Pony Car,Car,Pagani
+10935,Pony Car,Car,Pagani
+10936,Pony Car,Car,Pagani
+10937,Pony Car,Car,Pagani
+10938,Pony Car,Car,Pagani
+10939,SUV,Car,BMW
+10940,SUV,Car,Mercedes Benz
+10941,SUV,Car,Mercedes Benz
+10942,SUV,Car,Porsche
+10943,SUV,Car,Porsche
+10944,SUV,Car,Porsche
+10945,SUV,Car,Porsche
+10946,SUV,Car,BMW
+10947,SUV,Car,BMW
+10948,SUV,Car,BMW
+10949,SUV,Car,Mercedes Benz
+10950,Hatchback,Car,Audi
+10951,Hatchback,Car,Audi
+10952,Hatchback,Car,Audi
+10953,Hatchback,Car,Audi
+10954,Sedan,Car,Alfa Romeo
+10955,Sedan,Car,Alfa Romeo
+10956,Sedan,Car,Alfa Romeo
+10957,Sedan,Car,Ford
+10958,Sedan,Car,Alfa Romeo
+10959,Sedan,Car,Ford
+10960,Sedan,Car,Alfa Romeo
+10961,Sedan,Car,Ford
+10962,Sedan,Car,Ford
+10963,Sedan,Car,Ford
+10964,Sedan,Car,Ford
+10965,Sedan,Car,Ford
+10966,Sedan,Car,Alfa Romeo
+10967,Sedan,Car,Ford
+10968,Sedan,Car,Dodge
+10969,Sedan,Car,Dodge
+10970,Sedan,Car,Chevrolet
+10971,Sedan,Car,Toyota
+10972,Sedan,Car,Cadillac
+10973,Sedan,Car,Bentley
+10974,Sedan,Car,Tesla
+10975,Sedan,Car,Ford
+10976,Sedan,Car,Hyundai
+10977,Sedan,Car,Hyundai
+10981,Coupe,Car,Volvo
+10982,Coupe,Car,Volvo
+10983,Coupe,Car,Volvo
+10984,Coupe,Car,Volvo
+10985,Coupe,Car,Volvo
+10986,Coupe,Car,Volvo
+10987,Coupe,Car,Volvo
+10988,Coupe,Car,Volvo
+10989,Coupe,Car,Volvo
+10990,Coupe,Car,Volvo
+10991,Coupe,Car,Volvo
+10992,Coupe,Car,Volvo
+10993,Coupe,Car,Volvo
+10994,Coupe,Car,Volvo
+10995,Coupe,Car,Volvo
+10996,Coupe,Car,Volvo
+10997,Coupe,Car,Volvo
+10998,Coupe,Car,Volvo
+10999,Coupe,Car,Volvo
+11000,Coupe,Car,Volvo
+11001,Convertible,Car,MINI
+11008,Supercar,Car,Acura
+11021,Convertible,Car,MINI
+11052,Convertible,Car,MINI
+11100,Convertible,Car,MINI
+11101,Convertible,Car,Peugeot
+11112,Convertible,Car,Peugeot
+11241,Convertible,Car,MINI
+11247,Convertible,Car,MINI
+11249,Convertible,Car,MINI
+11373,Convertible,Car,Peugeot
+11793,Convertible,Car,MINI
+11925,Station Wagon,Car,Fiat
+11971,Station Wagon,Car,Fiat
