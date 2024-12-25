@@ -28,18 +28,20 @@ A comprehensive project designed to analyze car sales data, providing insights i
 1. **Main Dashboard**
    - Highlights key metrics such as total orders, revenue, profit margins, and average delivery times.
    - Includes visual breakdowns by car type, year, and regions.
-![Sales Performance](./Dashboards/Sales_Performance.png)
+
+![Sales Performance](Main_Report.png)
 
 2. **Regional Analysis**
    - Displays sales distribution across different countries and cities.
    - Shows insights into delivery times, profit margins, and regional performance.
-![Regional Insights](./Dashboards/Regional_Insights.png)
+
+![Regional Insights](Location.png)
 
 3. **Customer and Manager Analysis**
    - Identifies top customers and managers based on sales and revenue.
    - Highlights customer transactions and team performance.
 
-![Customer Insights](./Dashboards/Customer_Insights.png)
+![Customer Insights](Customers_Managers.png)
 ---
 
 ## 📈 Insights
